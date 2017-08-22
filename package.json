@@ -1,0 +1,22 @@
+{
+  "name": "fis3-deploy-gfe-local-deliver",
+  "version": "1.0.0",
+  "description": "提供本地部署",
+  "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gomeFED/fis3-deploy-gfe-local-deliver.git"
+  },
+  "keywords": [
+      "gfe",
+      "fis3",
+      "freemarker"
+  ],
+  "author": "gomeFED",
+  "dependencies": {},
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/gomeFED/fis3-deploy-gfe-local-deliver/issues"
+  },
+  "homepage": "https://github.com/gomeFED/fis3-deploy-gfe-local-deliver#readme"
+}
